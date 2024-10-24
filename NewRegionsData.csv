@@ -1,0 +1,11 @@
+﻿ RegionID,ManagerName,RegionName,CreatedOn,UpdatedOn,IsActive,Sum of Sales,Sum of TotalCustomers,Sum of AveragePurchase
+1,Thomas Aguilar,Lake Laura,04-Jan-24,11-Apr-24,TRUE,43019.92,118,4433.72
+2,Paul Santana,South Stacyfort,15-Aug-24,27-Aug-24,FALSE,14500.79,118,711.44
+3,Anthony Carter,New John,17-Jun-24,20-Aug-24,FALSE,27382.83,15,563.73
+4,Michael Turner,North Luis,30-May-24,07-Jun-24,FALSE,12479.85,95,497.13
+5,Stanley Lowery,Kristenshire,04-Sep-24,07-Mar-24,TRUE,16441.25,152,471.92
+6,Benjamin Carter,New Shelby,28-Feb-24,12-Jan-24,FALSE,20663.91,135,1765.83
+7,Courtney Murphy,New James,06-Apr-24,17-Sep-24,TRUE,27153.08,118,3711.79
+8,Rebecca Humphrey,South Charlesberg,20-Jul-24,13-Aug-24,TRUE,38489.85,193,833.39
+9,Sarah Evans,Port Kathryn,24-Jun-24,16-Jan-24,FALSE,3487.31,118,1553.21
+10,Daniel Gray,Salazarbury,31-Aug-24,21-Jan-24,TRUE,1947.64,118,2045.64
