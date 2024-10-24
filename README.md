@@ -32,7 +32,7 @@ This project aims to create customer segments using Power BI, helping businesses
 
 - **Demographic Segmentation**:
   - **Age Groups**: Segment customers into predefined groups (e.g., 18-25, 26-35, etc.).
-  - **Loyalty Tiers**: Categorize customers into low, medium, or high loyalty tiers based on loyalty points.
+  - **Loyalty Points**: Categorize customers into low, medium, or high loyalty tiers based on loyalty points.
   - **Payment Methods**: Segment customers by their preferred payment method (e.g., PayPal, credit card).
 
 ## Conclusion
